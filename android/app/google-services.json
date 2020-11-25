@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310698845434",
+    "firebase_url": "https://rapid-design-house-care.firebaseio.com",
+    "project_id": "rapid-design-house-care",
+    "storage_bucket": "rapid-design-house-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310698845434:android:9c5fd491e55378de265543",
+        "android_client_info": {
+          "package_name": "com.example.rapid_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310698845434-dft8o8hdks4u5l5dsir4n2ek0ocn309o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCso-gIzHTN_SbZC7Zq1R8T8GZL42PyuS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310698845434-dft8o8hdks4u5l5dsir4n2ek0ocn309o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
